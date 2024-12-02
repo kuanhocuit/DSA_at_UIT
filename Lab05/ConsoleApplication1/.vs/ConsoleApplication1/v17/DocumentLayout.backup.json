@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0739E3-3617-4993-87BF-37B1F5EAB31A}|ConsoleApplication1.vcxproj|D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\print.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA0739E3-3617-4993-87BF-37B1F5EAB31A}|ConsoleApplication1.vcxproj|solutionrelative:print.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA0739E3-3617-4993-87BF-37B1F5EAB31A}|ConsoleApplication1.vcxproj|D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA0739E3-3617-4993-87BF-37B1F5EAB31A}|ConsoleApplication1.vcxproj|solutionrelative:count.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print.cpp",
+              "DocumentMoniker": "D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\print.cpp",
+              "RelativeDocumentMoniker": "print.cpp",
+              "ToolTip": "D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\print.cpp",
+              "RelativeToolTip": "print.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T15:22:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "count.cpp",
+              "DocumentMoniker": "D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\count.cpp",
+              "RelativeDocumentMoniker": "count.cpp",
+              "ToolTip": "D:\\Hoc_lap_trinh\\DSA\\Lab05\\ConsoleApplication1\\count.cpp",
+              "RelativeToolTip": "count.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T14:23:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
